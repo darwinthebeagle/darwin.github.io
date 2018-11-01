@@ -8,3 +8,5 @@ And I can put all kinds of stuff on it!
 
 # MOOOOOOOOOOO
 
+This is html for inputing a picture
+<img src="images/image.jpg" style="width:75%">
