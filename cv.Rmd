@@ -1,50 +1,50 @@
 ---
-title: "KeungCV"
+title: "Darwin Keung CV"
 ---
 ### Education
 
-**Master of Public Health**: 
+--Master of Public Health--: 
 Columbia University Mailman School of Public Health, 2019 <br>
 _Department_: Environmental Health Sciences <br>
 _Certificate_: Environmental Health Policy <br>
 
-**Bachelor of Science**: 
+--Bachelor of Science--: 
 Haverford College, Haverford, PA, 2014 <br>
 _Major_: Biology <br>
 _Concentration_: Environmental Studies <br>
-* Thesis: Mapping the Role of nipi-3 and max-2 in C. elegans Microbial Avoidance Behavior <br>
-* Honorable Mention: Poster. Aging, Stress, and Pathogenesis and Small RNAs in C. elegans Conference. Madison, WI. <br>
-* Capstone Project: Agricultural Center for Environmental Studies: <br>
-* Developed a proposal for a greenhouse and outdoor environmental classroom.<br>
-* Approved by the President and Board of Trusties in 2014 and built by Haverford College in 2016.<br>
+- Thesis: Mapping the Role of nipi-3 and max-2 in C. elegans Microbial Avoidance Behavior <br>
+- Honorable Mention: Poster. Aging, Stress, and Pathogenesis and Small RNAs in C. elegans Conference. Madison, WI. <br>
+- Capstone Project: Agricultural Center for Environmental Studies: <br>
+- Developed a proposal for a greenhouse and outdoor environmental classroom.<br>
+- Approved by the President and Board of Trusties in 2014 and built by Haverford College in 2016.<br>
 
 
 ### Research Experience 
-**Columbia University Mailman School of Public Health – Department of Environmental Health Sciences** <br>
+--Columbia University Mailman School of Public Health – Department of Environmental Health Sciences-- <br>
 _Research Assistant_ <br>
 Principal Investigator: Dr. Micaela Martinez <br>
-* Assist Dr. Micaela Martinez studying the impact of urban light pollution on circadian rhythms under an NIEHS pilot grant. <br>
-* Designed and piloted sample collection methods for a new study. <br>
-* Time series analysis of data collected I collected from fieldwork. 
+- Assist Dr. Micaela Martinez studying the impact of urban light pollution on circadian rhythms under an NIEHS pilot grant. <br>
+- Designed and piloted sample collection methods for a new study. <br>
+- Time series analysis of data collected I collected from fieldwork. 
  <br>
-* Conduct literature reviews, data collection, cleaning, capture, and assist with preparing presentations <br>
+- Conduct literature reviews, data collection, cleaning, capture, and assist with preparing presentations <br>
 
-**Columbia University Mailman School of Public Health** <br>
+--Columbia University Mailman School of Public Health-- <br>
 _Research Assistant 2018_ <br>
 Principal Investigator: Dr. Darby Jack <br>
-* Assisted data collection of air pollutants such as black carbon and PM2.5 <br>
-* Test piloted pedal assisted bike air pollutant exposure collection <br>
+- Assisted data collection of air pollutants such as black carbon and PM2.5 <br>
+- Test piloted pedal assisted bike air pollutant exposure collection <br>
 
 ### Teaching Experience
-**Columbia University Mailman School of Public Health** <br>
+--Columbia University Mailman School of Public Health-- <br>
 _Core Teaching Assistant – Determinants of Health_ <br>
-*	Facilitating the link between faculty and students for 450 students with as a part of a teaching team. <br>
-*	Designing and grading assessments for a Core curriculum class in the public health program. <br>
-*	Communicating with students via office hours and faculty and teaching team via weekly in person meetings. <br>
-*	Addressing ad hoc issues including technical support during lectures, responding to student inquiries, and responsible conduct with sensitive academic content. <br>
+-	Facilitating the link between faculty and students for 450 students with as a part of a teaching team. <br>
+-	Designing and grading assessments for a Core curriculum class in the public health program. <br>
+-	Communicating with students via office hours and faculty and teaching team via weekly in person meetings. <br>
+-	Addressing ad hoc issues including technical support during lectures, responding to student inquiries, and responsible conduct with sensitive academic content. <br>
 
 ### Skills 
-* Mental Health First Aid Certified
-* Data: Basic knowledge of Stata, R, ArcGIS and qGIS
-* Laboratory: Flow cytometry and FlowJo analysis, PCR, qPCR, mouse stem cell culture, mouse dissection, florescence microscopy.
-* Leadership: Sabre Captain, Haverford Fencing 2014; Board member, Quaker Bouncers 2012-2014; VP of Treasury and Communications, Association for Justice and Health 2018
+- Mental Health First Aid Certified
+- Data: Basic knowledge of Stata, R, ArcGIS and qGIS
+- Laboratory: Flow cytometry and FlowJo analysis, PCR, qPCR, mouse stem cell culture, mouse dissection, florescence microscopy.
+- Leadership: Sabre Captain, Haverford Fencing 2014; Board member, Quaker Bouncers 2012-2014; VP of Treasury and Communications, Association for Justice and Health 2018

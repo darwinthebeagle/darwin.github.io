@@ -1,24 +1,25 @@
 ---
-title: "Darwinthebeagle"
+title: "Darwin the beagle"
 ---
 
 ### On the internet no one knows if you're a dog
 
 But last I checked I'm human.
 
-### Links to things I like
+### Links to things:
 
-I like [to read reddit](https://www.reddit.com).
+- I like [reddit](https://www.reddit.com) for all the dogs.
 
-More about me [about page](about.html).
+- More about me [about page](about.html).
 
-Learning to make with GIS check back for some maps!
+- For more see my [CV](cv.html)
 
-# MOOOOOOOOOOO
+- I can plot things too check out [Dashboard](dashboard.html)
+
+- Learning to make maps with GIS, check back for some maps and photos!
 
 This is html for inputing a picture
 <img src="images/image.jpg" style="width:75%">
-
 
 That’s it!
 
