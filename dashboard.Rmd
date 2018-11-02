@@ -1,6 +1,6 @@
 ---
-title: "NY NOAA Data""
-output: 
+title: "NY NOAA Data"
+output:
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
@@ -62,7 +62,7 @@ ny_noaa %>%
           text = ~tmax)
 ```
 
-### Hex - Min vs Max Temperature
+### Chart C: Hex - Min vs Max Temperature
 
 ```{r}
 library(patchwork)
