@@ -1,0 +1,75 @@
+---
+title: "NY NOAA Data""
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+library(plotly)
+```
+
+```{r clean}
+set.seed(1)
+
+data("ny_noaa")
+ny_noaa = 
+  ny_noaa %>% 
+  na.omit() %>% 
+  sample_n(100000) %>% 
+  janitor::clean_names() %>% 
+  separate(date, into = c("year","month","day"), convert = TRUE) %>% 
+  mutate(month = month.name[as.numeric(month)],
+         year = as.numeric(year), 
+         tmin = as.numeric(tmin, na.rm = TRUE),
+         tmax = as.numeric(tmax, na.rm = TRUE), 
+         prcp = prcp * 10 / 25.4,
+         tmin = tmin / 10,  
+         tmax = tmax / 10
+         ) 
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+### Chart A: Boxplot - Average Min Temperature in Nov
+
+```{r}
+ny_noaa %>% 
+  filter(month == "November") %>% 
+  group_by(year, month, tmin) %>% 
+  mutate(average_min_temp = mean(tmin, na.rm = TRUE)) %>% 
+  plot_ly(x = ~year, y = ~average_min_temp, type = "box", 
+           colors = "Set1")
+```
+  
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Chart B: Scatter - Average Min Temp in Januaray and July from 1981 to 2010
+
+```{r}
+ny_noaa %>%
+  filter(month %in% c("January", "July")) %>% 
+  group_by(year, month, tmax) %>% 
+  mutate(average_max_temp = mean(tmax, na.rm = TRUE)) %>% 
+  plot_ly(x = ~year, y = ~average_max_temp, type = "scatter", mode = "markers", 
+          alpha = 0.5, 
+          color = ~month, 
+          text = ~tmax)
+```
+
+### Hex - Min vs Max Temperature
+
+```{r}
+library(patchwork)
+
+hex_ggplot = 
+  ny_noaa %>% 
+  ggplot(aes(x = tmin, y = tmax)) + 
+  geom_hex()
+ggplotly(hex_ggplot)  
+```

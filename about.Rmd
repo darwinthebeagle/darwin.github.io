@@ -4,15 +4,21 @@ title: "About"
 
 ### About this site
 
-Hi you've reached Darwin's website (I grew it myself). I made this site using .rmd code and it is currently hosted on github at   This site started as a grad school project in the fall of 2018 to learn R and is evolving to contain projects that I am working on.
+Hi you've reached Darwin's website (I grew it myself). 
+I made this site using .rmd code and it is currently hosted on github at   
+This site started as a grad school project in the fall of 2018 to learn R and is evolving to contain projects that I am working on.
 
 About me:
+
 - __Name:__ Darwin
+
 - __Ocupation:__ "Grad Student"
+
 - __Location:__ Somewhere in NYC
+
 - __Hobbies:__ Lately is obsessed with sustainable technology and fixing the MTA. In his not so free time he combs through Reddit, NYTimes, WaPo, and blankly stares at his phone wondering why Julio Jones still hasn't caught a touchdown pass this season.
 
-- Mini-bio:
+_Mini-bio_:
 
 I am a Master of Public Health candidate in Environmental Health Sciences at Columbia.I previously studied C. elegans innate immunity and murine blood stem cell differentiation while completing his bachelor’s thesis at Haverford College.I am interested in environmental health challenges that arise from modernization and urbanization. Currently am is investigating the effects of light pollution and artificial lighting on circadian rhythms in [Dr. Micaela Martinez's lab](https://memartinez.org/).
 
