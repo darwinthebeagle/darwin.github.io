@@ -1,10 +1,20 @@
-name: "Yay internet!"
+name: "Darwin's Space"
 output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: Data Analysis
+      menu:
+      - text: Plotly
+        href: plotly.html
+      - text: Dashboard
+        href: dashboard_template.html
+    - text: "Thoughts"
+      href: blog.html
     - text: "About"
       href: about.html
+    - text: CV
+      href: cv.html      
     - icon: fa-envelope fa-lg
       href: mailto:<darwin.keung@columbia.edu>
     - icon: fa-github fa-lg
@@ -13,3 +23,4 @@ navbar:
       href: https://www.linkedin.com/in/darwinkeung/
 output:
   html_document
+  theme: Materia

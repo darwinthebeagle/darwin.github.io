@@ -4,8 +4,6 @@ title: "About"
 
 ### About this site
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
-
 Hi you've reached Darwin's website (I grew it myself). I made this site using .rmd code and it is currently hosted on github at   This site started as a grad school project in the fall of 2018 to learn R and is evolving to contain projects that I am working on.
 
 About me:
@@ -19,3 +17,5 @@ About me:
 I am a Master of Public Health candidate in Environmental Health Sciences at Columbia.I previously studied C. elegans innate immunity and murine blood stem cell differentiation while completing his bachelor’s thesis at Haverford College.I am interested in environmental health challenges that arise from modernization and urbanization. Currently am is investigating the effects of light pollution and artificial lighting on circadian rhythms in [Dr. Micaela Martinez's lab](https://memartinez.org/).
 
 My next obsession is exploring the issue of congestion pricing in NYC.
+
+For more see my [CV](cv.html)

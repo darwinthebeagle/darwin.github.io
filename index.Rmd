@@ -1,18 +1,18 @@
 ---
-title: "Holy cow batman!"
+title: "Darwinthebeagle"
 ---
 
-### I have a webpage!
+### On the internet no one knows if you're a dog
 
-And I can put all kinds of stuff on it!
+But last I checked I'm human.
 
-### Add some links
+### Links to things I like
 
 I like [to read reddit](https://www.reddit.com).
 
 More about me [about page](about.html).
 
-I am learning to make [maps](maps.html) with GIS.
+Learning to make with GIS check back for some maps!
 
 # MOOOOOOOOOOO
 
